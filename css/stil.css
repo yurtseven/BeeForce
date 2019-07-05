@@ -1,0 +1,86 @@
+﻿#menuu
+{
+	float:left;
+	width:7000px;
+	background-color:Red;
+	height:30px;
+	
+}
+#duzen
+{
+	background-color:#EFEFE;
+	margin-top:250px;
+}
+#main 
+{
+width:800px;
+background-color:#f4f4f4;
+margin:auto;
+}
+#logo 
+{
+	width:800px;
+	background-color:#EFEFE;
+	height:100px;
+	margin-bottom:10px;
+}
+#menu
+{
+	float:left;
+	width:800px;
+}
+#menu_anasayfa
+{
+	float:left;
+	width:100px;
+	background-color:Red;
+	height:30px;
+	margin-bottom:10px;
+}
+.clear 
+{
+	clear:both;
+}
+#icerik
+{
+	float:left;
+	width:800px;
+	background-color:#EFEFE;
+	height:1000px;
+	margin-bottom:10px;
+}
+#post
+{
+	width:700px;
+	background-color:Blue;
+	height:350px;
+	margin:auto;
+}
+#post_pp
+{
+	width:700px;
+	background-color:Green;
+	height:50px;
+	
+	
+}
+#post_foto
+{
+	width:700px;
+	background-color:Yellow;
+	height:280px;
+}
+#post_buton
+{
+	float:left;
+	width:80px;
+	background-color:Orange;
+	height:20;	
+}
+#post_begeni
+{
+	float:right;
+	width:350px;
+	background-color:Blue;
+	height:20;		
+}

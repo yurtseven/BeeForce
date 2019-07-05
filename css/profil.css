@@ -1,0 +1,155 @@
+#profil_bio
+{
+	background-color: #ffffff; 
+	width:890px;
+	margin-top:10px;
+	margin-left:380px;
+	margin-right:260px;
+	float:clear;
+	
+}
+#ic_bolum
+{
+	width:700px;
+	float:right;
+	margin-right:-210px;
+}
+#kad
+{
+	float:right;
+	margin-top:-180px;
+	margin-right:550px;
+	width:300px;
+	height:10px;;
+}
+#bio
+{
+	float:right;
+	margin-top:-100px;
+	margin-right:550px;
+	width:300px;
+	height:10px;;
+}
+#ayarlar
+{
+	width:50px;
+	height:50px;
+	float:right;
+	margin-top:-200px;
+	margin-right:200px;
+}
+.liste
+{
+	border:1px solid #ddd;
+	position:relative;
+	background-color: #ffffff; 
+	left:400px;
+	width:700px;
+	margin-top:10px;
+}
+.liste h3
+{
+	border:1px solid #dd;
+	margin:2px;
+	padding:5px;
+	background:White; 
+}
+.liste img
+{
+	padding:5px;
+}
+.liste span
+{
+	margin:5px;
+	padding:5px;
+	font-size:20px;
+}
+.begeni_buton
+{
+	border:0px solid #ddd;
+	width:675;
+	height:50px;
+	
+}
+body{background-color:#EBEBEBBE;}
+#tablo{
+	width:1630px;
+	
+	}
+.clear 
+{
+	clear:both;
+}
+#menu
+{
+	
+	width:auto;
+	height:100px;
+	background-color:White;
+	margin:auto;
+	padding:0px;
+	
+	
+}
+#logo
+{
+	float:left;
+	margin-left:300px;
+	
+	
+}
+#orta
+{
+	float:center;
+
+}
+
+#arama
+{
+	float:right;
+	margin-right:600px;
+	margin-top:-58px;
+	clear:both;
+}
+#profil{
+	float:right;
+	margin-right:250px;
+	margin-top:-65px;
+	clear:both;
+	
+}
+.inputs {
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-box-shadow: 0 1px 0 #FFF, 0 -2px 5px rgba(0, 0, 0, 0.08) inset;
+    -moz-box-shadow: 0 1px 0 #fff, 0 -2px 5px rgba(0, 0, 0, 0.08) inset;
+    -ms-box-shadow: 0 1px 0 #fff, 0 -2px 5px rgba(0, 0, 0, 0.08) inset;
+    -o-box-shadow: 0 1px 0 #fff, 0 -2px 5px rgba(0, 0, 0, 0.08) inset;
+    box-shadow: 0 1px 0 #FFF, 0 -2px 5px rgba(0, 0, 0, 0.08) inset;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    background: #EAE7E7;
+    border: 1px solid #C8C8C8;
+    color: #777;
+    font: 13px Helvetica, Arial, sans-serif;
+    margin: 0 0 10px;
+    padding: 10px 5px 10px 10px;
+    width: 400px;
+}
+
+.inputs:focus {
+    -webkit-box-shadow: 0 0 2px #ED1C24 inset;
+    -moz-box-shadow: 0 0 2px #ed1c24 inset;
+    -ms-box-shadow: 0 0 2px #ed1c24 inset;
+    -o-box-shadow: 0 0 2px #ed1c24 inset;
+    box-shadow: 0 0 2px #ED1C24 inset;
+    background-color: #FFF;
+    border: 1px solid #ED1C24;
+    outline: none;
+}

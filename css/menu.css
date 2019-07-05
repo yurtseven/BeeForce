@@ -1,0 +1,153 @@
+body{background-color:#EBEBEBBE;}
+#tablo{
+	width:1630px;
+	
+	}
+.clear 
+{
+	clear:both;
+}
+#menu
+{
+	
+	width:auto;
+	height:100px;
+	background-color:White;
+	margin:auto;
+	padding:0px;
+	
+	
+}
+#logo
+{
+	float:left;
+	margin-left:300px;
+	margin-right:-100px;
+	
+}
+#orta
+{
+	float:center;
+	margin-left:50px;
+
+}
+#arama
+{
+	float:right;
+	margin-right:900px;
+	margin-top:-58px;
+	clear:both;
+}
+#profil{
+	float:right;
+	margin-right:250px;
+	margin-top:-65px;
+	clear:both;
+	
+}
+#post{
+	border:1px solid #ddd;
+	width:700px;
+	background-color: #ffffff; 
+	height:400px;
+	margin:auto;
+	position:relative;
+}
+#post_pp
+{
+	width:700px;
+	background-color: #ffe413; 
+	height:30px;
+	padding-top:0px;
+	
+}
+#post_foto
+{
+	width:700px; 
+	height:300px;
+	margin:auto;
+}
+#post_buton
+{
+	width:10px; 
+	height:10px;
+	float:left;
+}
+#post_begeni
+{
+	width:10px; 
+	height:10px;
+	float:left;
+	margin-left:50px;
+	margin-top:5px;
+}
+.liste
+{
+	border:1px solid #ddd;
+	position:relative;
+	background-color: #ffffff; 
+	left:400px;
+	width:700px;
+	margin-top:10px;
+}
+.liste h3
+{
+	border:1px solid #dd;
+	margin:2px;
+	padding:5px;
+	background:White; 
+}
+.liste img
+{
+	padding:5px;
+}
+.liste span
+{
+	margin:5px;
+	padding:5px;
+	font-size:20px;
+}
+.begeni_buton
+{
+	border:0px solid #ddd;
+	width:675;
+	height:50px;
+	
+}
+
+.inputs {
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-box-shadow: 0 1px 0 #FFF, 0 -2px 5px rgba(0, 0, 0, 0.08) inset;
+    -moz-box-shadow: 0 1px 0 #fff, 0 -2px 5px rgba(0, 0, 0, 0.08) inset;
+    -ms-box-shadow: 0 1px 0 #fff, 0 -2px 5px rgba(0, 0, 0, 0.08) inset;
+    -o-box-shadow: 0 1px 0 #fff, 0 -2px 5px rgba(0, 0, 0, 0.08) inset;
+    box-shadow: 0 1px 0 #FFF, 0 -2px 5px rgba(0, 0, 0, 0.08) inset;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    background: #EAE7E7;
+    border: 1px solid #C8C8C8;
+    color: #777;
+    font: 13px Helvetica, Arial, sans-serif;
+    margin: 0 0 10px;
+    padding: 10px 5px 10px 10px;
+    width: 400px;
+}
+
+.inputs:focus {
+    -webkit-box-shadow: 0 0 2px #FFD200 inset;
+    -moz-box-shadow: 0 0 2px #FFD200 inset;
+    -ms-box-shadow: 0 0 2px #FFD200 inset;
+    -o-box-shadow: 0 0 2px #FFD200 inset;
+    box-shadow: 0 0 2px #FFD200 inset;
+    background-color: #FFF;
+    border: 1px solid #FFD200;
+    outline: none;
+}
+
